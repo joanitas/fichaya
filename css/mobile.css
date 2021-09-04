@@ -1,0 +1,93 @@
+.nav-container {
+    display: inline;
+    padding: 2rem 0;
+}
+
+
+#header {
+    display: flex;
+    margin: 3px;
+    background: #fff;
+}
+.header-writeup {
+    margin-top: 4rem;
+    margin-right: 3px;}
+
+.fichaya-header img {
+    width: 400px;
+}
+.m-heading {
+    font-size: 30px;
+    line-height: 30px;
+}
+.header-writeup p {
+    font-size: 19px;
+    width: 350px;
+    line-height: 20px;}
+
+.header-writeup img {
+    width: 200px;
+}
+.l-heading {
+    font-size: 50px;
+    line-height: 62px;
+}
+.icon-img {
+    padding: 15px;
+    display: inline-block;
+    margin: 0.3rem;
+}
+.why-container p {
+    margin: 0.2rem 0.5rem;
+    padding: 0.2rem 1rem;
+    font-size: 14px;
+    line-height: 16px;
+}
+.prof-sec {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.prof-img img {
+    display: flex;
+    width: 310px;
+    margin-left: 70px;
+    margin-top: 2rem;
+}
+.white-profs {
+    display: block;
+    padding: 10px;
+    margin: 0.5rem 2px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 10px rgba(0, 10, 79, 0.0745465);
+    border-radius: 4px;
+    text-align: center;
+    width: 10rem;
+    height: 200px;
+}
+.white-profs img {
+    width: 80px;
+    height: 40px;
+    margin: 3px;
+}
+.white-profs p {
+    display: block;
+    font-size: 14px;
+    line-height: 12px;
+    margin-top: 0;
+}
+.white-profs h5 {
+    margin-top: 0.2rem;
+}
+.apps img {
+    width: 250px;
+}
+.s-heading  {
+    font-size: 30px;
+}
+.last-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #ffffff;
+    margin: 30px;
